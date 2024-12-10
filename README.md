@@ -8,7 +8,7 @@ The refresh process is handled using multithreading to ensure smooth updates for
 
 ## Authors
 
-- [@Guryansh](https://www.github.com/Guryansh)
+- [@Eshitva](https://www.github.com/Eshitva)
 
 ## Features
 
@@ -28,7 +28,7 @@ The refresh process is handled using multithreading to ensure smooth updates for
 1. Clone the repository:
 
    ```ssh
-   git clone https://github.com/Guryansh/Threading
+   git clone https://github.com/Eshitva/MultiThreading
    cd your-repo-name
    ```
 2. Run script
